@@ -1,4 +1,4 @@
-package com.zhuandian;
+package com.zhuandian.ios_scrollview_lib;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
