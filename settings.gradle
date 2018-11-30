@@ -1,1 +1,1 @@
-include ':app', ':ios-scrollview-lib'
+include ':app', ':ios-scrollview-lib', ':ios-scrollview', ':scrollview'

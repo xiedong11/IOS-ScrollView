@@ -1,4 +1,4 @@
-package com.zhuandian.ios_scrollview_lib;
+package com.zhuandian.scrollview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.zhuandian.ios_scrollview_lib.test", appContext.getPackageName());
+        assertEquals("com.zhuandian.scrollview.test", appContext.getPackageName());
     }
 }

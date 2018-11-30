@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhuandian.scrollview.IOSScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TextScrollViewActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="发了就付款了的数据 贷款了撒发生手动阀口袋里撒防静电快来撒分拣快递是接口了打扫房间康拉反馈逻辑贷款了撒发生手动阀口袋里撒防静电快来撒分拣快递是接口了打扫房间康拉反馈逻辑贷款了撒发生手动阀口袋里撒防静电快来撒分拣快递是接口了打扫房间康拉反馈逻辑贷款了撒发生手动阀口袋里撒防静电快来撒分拣快递是接口了打扫房间康拉反馈逻辑贷款了撒发生手动阀口袋里撒防静电快来撒分拣快递是接口了打扫房间康拉反馈逻辑贷款了撒发生手动阀口袋里撒防静电快来撒分拣快递是接口了打扫房间康拉反馈逻辑贷款了撒发生手动阀口袋里撒防静电快来撒分拣快递是接口了打扫房间康拉反馈逻辑贷款了撒发生手动阀口袋里撒防静电快来撒分拣快递是接口了打扫房间康拉反馈逻辑都是坑楼交房发动机说翻就翻都是防静电快来撒房价康老大啥看了打飞机扣篮大赛荆防颗粒都是几分恐龙当家付款了的首付款啦考虑到付款了打算付款了打算将罚款了的反馈了的静安寺了 都是几分贷款了萨芬就考虑到三发看来都是房价康六点十分接口了打首付款了的首付款了的首付款了的顺口溜发生得了首付款了的首付款了但是"
+        android:textSize="30sp" />
+</com.zhuandian.scrollview.IOSScrollView>

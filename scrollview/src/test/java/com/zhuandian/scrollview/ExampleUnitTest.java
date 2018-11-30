@@ -1,4 +1,4 @@
-package com.zhuandian.ios_scrollview_lib;
+package com.zhuandian.scrollview;
 
 import org.junit.Test;
 

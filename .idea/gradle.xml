@@ -9,7 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/ios-scrollview" />
             <option value="$PROJECT_DIR$/ios-scrollview-lib" />
+            <option value="$PROJECT_DIR$/scrollview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
